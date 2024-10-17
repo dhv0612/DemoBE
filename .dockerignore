@@ -1,0 +1,7 @@
+.env.local
+.env.deploy
+.github
+.gitattributes
+.gitignore
+.editorconfig
+.git
